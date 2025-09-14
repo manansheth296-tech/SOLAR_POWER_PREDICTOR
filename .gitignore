@@ -1,0 +1,9 @@
+solar_model_india.joblib
+model_metadata_india.joblib
+India_Household_Solar_Data_Multi_Size.csv
+
+# Ignore frontend dependencies
+node_modules/
+
+# Ignore other system files
+.DS_Store
